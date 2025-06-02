@@ -12,4 +12,5 @@
 .youtube-nocookie.com
 .yt.be
 .ytimg.com
+.ggpht.com
 .t.co
