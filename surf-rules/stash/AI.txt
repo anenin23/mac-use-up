@@ -134,3 +134,12 @@
 .googleadservices.com
 .gstatic.com
 .app-analytics-services.com
+.googleads.g.doubleclick.net
+.googleadservices.com
+.td.doubleclick.net
+.update.googleapis.com
+.google-analytics.com
+.fonts.gstatic.com
+.googletagmanager.com
+.gstatic.com
+.chrome.cloudflare-dns.com
