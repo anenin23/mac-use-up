@@ -15,3 +15,5 @@
 .ggpht.com
 .t.co
 .netflix.com
+.nflxvideo.net
+.nflxso.net
