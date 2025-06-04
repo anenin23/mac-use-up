@@ -14,3 +14,4 @@
 .ytimg.com
 .ggpht.com
 .t.co
+.netflix.com
