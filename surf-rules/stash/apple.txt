@@ -166,3 +166,4 @@
 .www.apple.com
 .xp.apple.com
 .push.apple.com
+.apple.com
