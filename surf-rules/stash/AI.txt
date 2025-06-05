@@ -143,3 +143,5 @@
 .googletagmanager.com
 .gstatic.com
 .chrome.cloudflare-dns.com
+featureassets.org
+.featureassets.org
