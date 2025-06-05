@@ -167,3 +167,5 @@
 .xp.apple.com
 .push.apple.com
 .apple.com
+Apple.com.cn
+.apple.com.cn
