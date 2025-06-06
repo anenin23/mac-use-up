@@ -145,3 +145,6 @@
 .chrome.cloudflare-dns.com
 featureassets.org
 .featureassets.org
+.imagedelivery.net
+.singular.net
+.podscribe.com
