@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,api.sprig.com:443
+DOMAIN-SUFFIX,notionusercontent.com:443
+DOMAIN-SUFFIX,otion.so
+DOMAIN-SUFFIX,api.sprig.com
+DOMAIN-SUFFIX,cloud.gist
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,track.customer.io
+DOMAIN-SUFFIX,gist.build
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,notion.so
